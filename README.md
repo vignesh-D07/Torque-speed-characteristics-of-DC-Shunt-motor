@@ -34,15 +34,26 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 11.	Right click on each graph and select the axes properties and label each graph.
 12.	Save the file. 
 13.	Analyze and record your inference.
+
+## Simulation diagram
+<img width="1920" height="1200" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/f3f2a14c-3473-4b36-bb29-6a902bcb4d3f" />
+
+
+
     
 ## Observation Table
-<img width="636" height="295" alt="image" src="https://github.com/user-attachments/assets/d16394c9-1df2-4ad8-b85c-92dfaa51aeee" />
+<img width="1398" height="652" alt="image" src="https://github.com/user-attachments/assets/07069f9a-d53e-4822-8444-703592d2ba29" />
 
 ## Output graph
+<img width="1920" height="1200" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/b7208413-2da3-4546-a2da-f03e9e46a6bc" />
+
 
 
 ## Simulated Output waveform
 
+<img width="1920" height="1200" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/f69b4830-5297-4dfe-ae49-79a55459869b" />
 
 
-## RESULT.
+
+## RESULT
+The speed of the DC shunt motor decreases as the load torque increases, showing an approximately linear torque-speed relationship.
